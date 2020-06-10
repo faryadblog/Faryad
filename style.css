@@ -1,0 +1,43 @@
+A {TEXT-DECORATION: none;}
+body{font-family:font-family: 'Vazir', Tahoma, sans-serif;margin:0;background:#000000}
+span.aa{color:#DCCF61;font-size:8pt;font-weight:bold;}
+
+.left{background:url('bg.jpg') repeat-y right;vertical-align:top;width:525;}
+.right{background:#281A0D;vertical-align:top;width:478;}
+
+.top1{background:url('top-l.jpg') no-repeat top left;width:525;height:200;float:right;text-align:center;overflow:hidden;direction:rtl;}
+.top2{background:url('top-r.jpg') no-repeat center;width:478;height:500;float:right;}
+
+.titr{color:#F9EC4F;font-size:26pt;font-weight:bold;width:450;font-family:'Vazir', Times New Roman;float:right;}
+.titr2{margin:20 50 0 0;}
+.titr a{color:#F9EC4F;}
+.des{font-size:10pt;color:#392109;font-weight:bold;float:right;width:450;}
+.des2{margin:15 50 0 0;}
+
+.menu{width:220;text-align:center;padding:10 10 0 0;float:right;direction:rtl;}
+.tmenu{width:200;float:right;height:40;background:url('m.gif') no-repeat bottom;font-size:10pt;color:#A39667;font-weight: bold;}
+.tmenu2{padding:0 2 0 0;}
+.xmenu{width:210;float:right;font-size:10pt;margin-bottom:30;}
+.xxmenu{margin:4 10 0 10;color:#ffffff}
+.xxmenu a:hover{color:#ffffff;background:#503F2F}
+.xxmenu a{color:#D8D8D8;}
+
+.post{width:525;float:right;text-align:right;direction:rtl;}
+.tpost{width:525;float:right;height:50;background:url('p1.jpg') no-repeat top right;color:#ffffff;overflow:hidden;}
+.tpost2{padding:8 20 0 40;float:right;font-size:11pt;font-weight:bold;}
+.tpost2 a{color:#ffffff;}
+.bpost{width:525;float:right;height:66;background:url('p2.jpg') no-repeat top left;font-size:8pt;margin-bottom:30;}
+.date{color:#C5B586;width:360;float:right;text-align:left;}
+.date2{padding:15 0 0 0;}
+.nz{font-size:9pt;color:#ffffff;width:130;float:right;text-align:center;}
+.nz2{padding:5 0 0 0;}
+.nz a{color:#9D9B00;font-weight:bold;}
+.xpost{width:525;float:right;font-size:11pt;color:#FFFAC8;overflow:hidden;}
+.xpost a{color:#F2C203;}
+.xxpost{padding:0 20 15 15;line-height:130%}
+
+.page{width:525;float:right;text-align:center;font-size:8pt;color:#D8D8D8;direction:rtl;}
+.page a{color:#EBCB6E;font-size:9pt;}
+
+p{line-height:1.5em}
+label{font-family: 'Vazir', Tahoma, sans-serif;}
