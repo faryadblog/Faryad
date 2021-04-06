@@ -1,1 +1,1 @@
-location.replace("http://www.faryad.blogfa.com/");
+location.assign("http://faryad.blogfa.com/");
