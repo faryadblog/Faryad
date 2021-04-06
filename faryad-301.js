@@ -1,1 +1,1 @@
-window.location.replace("http://www.faryad.blogfa.com/");
+location.replace("http://www.faryad.blogfa.com/");
